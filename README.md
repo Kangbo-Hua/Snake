@@ -25,5 +25,5 @@ This is a simple game written in Python.
 - Eat fruit and grow up
 - Score for eating fruit
 ##
-### Author:Albus McGonagall
+### Author:Kangbo Hua
 ---
