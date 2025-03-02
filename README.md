@@ -5,7 +5,7 @@ This is a simple game written in Python.
 
 ## Entry
 
-- Click START to select the number of players and start the gameClick START to select the number of players and start the game
+- Click START to select the number of players and start the game
 - Click COLOR to select the color style (classic and grass)
 ##Game Operation
 
